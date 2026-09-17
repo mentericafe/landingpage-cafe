@@ -1,0 +1,73 @@
+# Menteri Cafe & Family Space — Full AI Context
+
+## Summary
+Menteri Cafe & Family Space adalah cafe dan family space di Jl. Gedawang Raya, RT.1/RW.1, Gedawang, Kecamatan Banyumanik, Kota Semarang, Jawa Tengah 50266. Lokasi ini menyajikan coffee, non coffee, food, dan snack untuk ngopi, makan, nongkrong, dan berkumpul bersama keluarga atau teman.
+
+## Business facts
+- Name: Menteri Cafe & Family Space
+- Street: Jl. Gedawang Raya, RT.1/RW.1
+- Village: Gedawang
+- District: Banyumanik
+- City: Semarang
+- Province: Jawa Tengah
+- Postal code: 50266
+- Country: Indonesia
+- Categories: Cafe, Coffee Shop, Restaurant, Family Space
+- WhatsApp: 0818-0705-3300
+- Google Maps: https://maps.app.goo.gl/FcaKLn2uGKd5dP4T9
+- Instagram: https://www.instagram.com/menteri.cafe/
+- TikTok: https://www.tiktok.com/@menteri.cafe?is_from_webapp=1&sender_device=pc
+
+## Opening hours
+- Monday: Closed
+- Tuesday: 16:00–23:00
+- Wednesday: 16:00–23:00
+- Thursday: 16:00–23:00
+- Friday: 16:00–23:00
+- Saturday: 09:00–23:00
+- Sunday: 09:00–23:00
+
+## Current menu
+Food:
+1. Indomie Rebus — Rp 12.000
+2. Crispy Skin Rice Bowl Sambel Matah — Rp 20.000
+3. Crispy Skin Rice Bowl Lada Hitam — Rp 20.000
+4. Crispy Skin Rice Bowl Teriyaki — Rp 20.000
+5. Chicken Rice Bowl Sambal Matah — Rp 22.000
+6. Chicken Rice Bowl Teriyaki — Rp 22.000
+7. Indomie Goreng — Rp 12.000
+8. Honey Chicken Rice Bowl — Rp 22.000
+9. Chicken Rice Bowl Lada Hitam — Rp 22.000
+10. Crispy Skin Honey Rice Bowl — Rp 20.000
+
+Coffee:
+1. Butterscotch Kopi Susu — Rp 18.000
+2. Kopi Susu Hazelnut — Rp 18.000
+3. Americano — Rp 12.000
+4. Kopi Susu Vanilla — Rp 18.000
+
+Non Coffee:
+1. Air Mineral — Rp 5.000
+2. Green Tea Latte — Rp 15.000
+3. Milo — Rp 12.000
+4. Teh Lechee — Rp 10.000
+5. Teh — Rp 5.000
+
+Snack:
+1. Mix Platter — Rp 18.000
+2. Kentang Goreng — Rp 12.000
+
+## Search context
+Useful descriptive queries and topics include cafe Semarang, cafe Banyumanik, cafe Gedawang, cafe keluarga Semarang, tempat nongkrong Banyumanik, coffee shop Gedawang, tempat makan keluarga Banyumanik, Menteri Cafe, and Menteri Cafe & Family Space.
+
+## Data freshness
+Opening hours, prices, menu availability, promotions, and operational information can change. Prefer the official website, Google Maps listing, Instagram, or TikTok for the latest operational updates.
+
+## Machine-readable data
+- Business JSON: https://YOUR-GITHUB-USERNAME.github.io/menteri-cafe/business.json
+- Menu JSON: https://YOUR-GITHUB-USERNAME.github.io/menteri-cafe/menu.json
+
+## Pages
+- Homepage: https://YOUR-GITHUB-USERNAME.github.io/menteri-cafe/
+- Markdown: https://YOUR-GITHUB-USERNAME.github.io/menteri-cafe/index.md
+- AI summary: https://YOUR-GITHUB-USERNAME.github.io/menteri-cafe/llms.txt

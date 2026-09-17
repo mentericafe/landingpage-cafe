@@ -1,0 +1,29 @@
+{
+  "name": "Menteri Cafe & Family Space",
+  "type": ["Cafe", "Coffee Shop", "Restaurant", "Family Space"],
+  "address": {
+    "streetAddress": "Jl. Gedawang Raya, RT.1/RW.1",
+    "village": "Gedawang",
+    "district": "Banyumanik",
+    "city": "Semarang",
+    "province": "Jawa Tengah",
+    "postalCode": "50266",
+    "country": "Indonesia"
+  },
+  "phone": "0818-0705-3300",
+  "whatsapp": "https://wa.me/6281807053300",
+  "googleMaps": "https://maps.app.goo.gl/FcaKLn2uGKd5dP4T9",
+  "instagram": "https://www.instagram.com/menteri.cafe/",
+  "tiktok": "https://www.tiktok.com/@menteri.cafe?is_from_webapp=1&sender_device=pc",
+  "openingHours": {
+    "monday": "closed",
+    "tuesday": "16:00-23:00",
+    "wednesday": "16:00-23:00",
+    "thursday": "16:00-23:00",
+    "friday": "16:00-23:00",
+    "saturday": "09:00-23:00",
+    "sunday": "09:00-23:00"
+  },
+  "priceRange": "Rp 5.000-Rp 22.000",
+  "description": "Cafe dan family space di Gedawang, Banyumanik, Kota Semarang untuk ngopi, makan, nongkrong, dan berkumpul bersama keluarga maupun teman."
+}

@@ -1,0 +1,28 @@
+{
+  "business": "Menteri Cafe & Family Space",
+  "currency": "IDR",
+  "lastUpdated": "2026-09-17",
+  "items": [
+    {"code":"FM-002","name":"Indomie Rebus","category":"Food","price":12000},
+    {"code":"FCS-002","name":"Crispy Skin Rice Bowl Sambel Matah","category":"Food","price":20000},
+    {"code":"FCS-003","name":"Crispy Skin Rice Bowl Lada Hitam","category":"Food","price":20000},
+    {"code":"FCS-004","name":"Crispy Skin Rice Bowl Teriyaki","category":"Food","price":20000},
+    {"code":"M001","name":"Air mineral","category":"Non coffee","price":5000},
+    {"code":"M002","name":"Butterscotch Kopi Susu","category":"Coffee","price":18000},
+    {"code":"M003","name":"Chicken Rice Bowl Sambal Matah","category":"Food","price":22000},
+    {"code":"M004","name":"Mix Platter","category":"Snack","price":18000},
+    {"code":"M005","name":"Chicken Rice Bowl Teriyaki","category":"Food","price":22000},
+    {"code":"M006","name":"Kopi Susu Hazelnut","category":"Coffee","price":18000},
+    {"code":"M007","name":"Americano","category":"Coffee","price":12000},
+    {"code":"M008","name":"Green Tea Latte","category":"Non coffee","price":15000},
+    {"code":"M009","name":"Indomie Goreng","category":"Food","price":12000},
+    {"code":"M010","name":"Honey Chicken Rice Bowl","category":"Food","price":22000},
+    {"code":"M011","name":"Milo","category":"Non coffee","price":12000},
+    {"code":"M012","name":"Teh Lechee","category":"Non coffee","price":10000},
+    {"code":"M013","name":"Chicken Rice Bowl Lada Hitam","category":"Food","price":22000},
+    {"code":"M014","name":"Kopi Susu Vanilla","category":"Coffee","price":18000},
+    {"code":"M015","name":"Crispy Skin Honey Rice Bowl","category":"Food","price":20000},
+    {"code":"M016","name":"Kentang Goreng","category":"Snack","price":12000},
+    {"code":"M017","name":"Teh","category":"Non coffee","price":5000}
+  ]
+}
